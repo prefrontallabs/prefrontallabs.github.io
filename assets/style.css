@@ -1,0 +1,8 @@
+
+body{font-family:system-ui,Arial,sans-serif;background:#f5f7fb;color:#1f2937;margin:0}
+header{background:#0f172a;color:#fff;padding:40px 20px}
+.wrap{max-width:900px;margin:auto}
+.card{background:#fff;border-radius:14px;padding:22px;margin:20px 0;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.btn{display:inline-block;background:#2563eb;color:#fff;padding:10px 16px;border-radius:8px;text-decoration:none}
+ul{line-height:1.9}
+footer{text-align:center;color:#666;padding:25px}
